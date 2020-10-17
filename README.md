@@ -1,2 +1,2 @@
 # deemo
-a simle dynamic script interpreter in Java.
+a simple dynamic script interpreter in Java.
